@@ -67,3 +67,4 @@ const ModalWrapper = () => {
 
   return <Modal image={modalImage} onClose={closeModal} />;
 };
+//
